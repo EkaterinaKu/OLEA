@@ -1,2 +1,2 @@
 # OLEA
-parfumeria-shop
+Парфюмерный магазин
